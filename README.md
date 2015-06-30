@@ -1,2 +1,4 @@
 # ruby-gathering
-Ruby magic the gathering-like cards!
+Ruby + Magic: The gathering = Awesome!
+
+This proyect use [squib gem](https://github.com/andymeneely/squib)
